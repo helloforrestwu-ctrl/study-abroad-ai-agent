@@ -1,0 +1,300 @@
+{
+  "美国": [
+    {
+      "name": "Massachusetts Institute of Technology",
+      "中文名": "麻省理工学院",
+      "ranking": 1,
+      "tier": "冲刺",
+      "gpa_requirement": 3.7,
+      "toefl_requirement": 100,
+      "ielts_requirement": 7.0,
+      "programs": ["Computer Science", "Electrical Engineering", "AI/ML", "Data Science"],
+      "deadline": "2024-12-15",
+      "match_reason": "AI/ML研究实力全球第一，适合有强科研背景的申请者"
+    },
+    {
+      "name": "Stanford University",
+      "中文名": "斯坦福大学",
+      "ranking": 2,
+      "tier": "冲刺",
+      "gpa_requirement": 3.7,
+      "toefl_requirement": 100,
+      "ielts_requirement": 7.0,
+      "programs": ["Computer Science", "AI", "Management Science & Engineering"],
+      "deadline": "2024-12-01",
+      "match_reason": "硅谷核心，创业资源丰富，CS和商科交叉项目强"
+    },
+    {
+      "name": "Carnegie Mellon University",
+      "中文名": "卡内基梅隆大学",
+      "ranking": 3,
+      "tier": "冲刺",
+      "gpa_requirement": 3.6,
+      "toefl_requirement": 100,
+      "ielts_requirement": 7.0,
+      "programs": ["Computer Science", "Software Engineering", "AI", "Information Systems"],
+      "deadline": "2024-12-15",
+      "match_reason": "CS专业顶尖，重视项目经验和编程能力"
+    },
+    {
+      "name": "University of California, Berkeley",
+      "中文名": "加州大学伯克利分校",
+      "ranking": 4,
+      "tier": "匹配",
+      "gpa_requirement": 3.5,
+      "toefl_requirement": 90,
+      "ielts_requirement": 7.0,
+      "programs": ["EECS", "Data Science", "Information Management", "Business Analytics"],
+      "deadline": "2024-12-01",
+      "match_reason": "公立名校，工程和商科结合紧密，注重创新能力"
+    },
+    {
+      "name": "Columbia University",
+      "中文名": "哥伦比亚大学",
+      "ranking": 8,
+      "tier": "冲刺",
+      "gpa_requirement": 3.5,
+      "toefl_requirement": 100,
+      "ielts_requirement": 7.0,
+      "programs": ["Computer Science", "Data Science", "Financial Engineering"],
+      "deadline": "2025-01-05",
+      "match_reason": "地处纽约，金融科技方向资源丰富，国际化程度高"
+    },
+    {
+      "name": "University of Southern California",
+      "中文名": "南加州大学",
+      "ranking": 25,
+      "tier": "匹配",
+      "gpa_requirement": 3.3,
+      "toefl_requirement": 90,
+      "ielts_requirement": 6.5,
+      "programs": ["Computer Science", "Data Science", "Game Design", "Analytics"],
+      "deadline": "2025-01-15",
+      "match_reason": "地理位置佳，就业资源丰富，对国际生友好"
+    },
+    {
+      "name": "New York University",
+      "中文名": "纽约大学",
+      "ranking": 30,
+      "tier": "匹配",
+      "gpa_requirement": 3.4,
+      "toefl_requirement": 100,
+      "ielts_requirement": 7.0,
+      "programs": ["Computer Science", "Data Science", "Cybersecurity"],
+      "deadline": "2025-01-15",
+      "match_reason": "地处曼哈顿，实习机会多，金融科技方向强"
+    },
+    {
+      "name": "University of Michigan, Ann Arbor",
+      "中文名": "密歇根大学安娜堡分校",
+      "ranking": 23,
+      "tier": "匹配",
+      "gpa_requirement": 3.4,
+      "toefl_requirement": 90,
+      "ielts_requirement": 6.5,
+      "programs": ["Computer Science", "Data Science", "Information"],
+      "deadline": "2025-01-31",
+      "match_reason": "公立常春藤，学术氛围浓厚，校友网络强大"
+    },
+    {
+      "name": "Northeastern University",
+      "中文名": "东北大学",
+      "ranking": 49,
+      "tier": "保底",
+      "gpa_requirement": 3.0,
+      "toefl_requirement": 85,
+      "ielts_requirement": 6.5,
+      "programs": ["Computer Science", "Information Systems", "Data Analytics"],
+      "deadline": "2025-02-01",
+      "match_reason": "Co-op项目突出，实习机会多，适合注重就业的申请者"
+    },
+    {
+      "name": "Boston University",
+      "中文名": "波士顿大学",
+      "ranking": 43,
+      "tier": "保底",
+      "gpa_requirement": 3.2,
+      "toefl_requirement": 90,
+      "ielts_requirement": 7.0,
+      "programs": ["Computer Science", "Data Science", "Software Development"],
+      "deadline": "2025-02-15",
+      "match_reason": "地处波士顿，科技氛围好，就业率高"
+    }
+  ],
+  "英国": [
+    {
+      "name": "University of Cambridge",
+      "中文名": "剑桥大学",
+      "ranking": 2,
+      "tier": "冲刺",
+      "gpa_requirement": 3.8,
+      "toefl_requirement": 110,
+      "ielts_requirement": 7.5,
+      "programs": ["Computer Science", "Machine Learning", "Advanced Computer Science"],
+      "deadline": "2024-12-01",
+      "match_reason": "学术声誉世界顶尖，适合纯学术路线申请者"
+    },
+    {
+      "name": "University of Oxford",
+      "中文名": "牛津大学",
+      "ranking": 3,
+      "tier": "冲刺",
+      "gpa_requirement": 3.8,
+      "toefl_requirement": 110,
+      "ielts_requirement": 7.5,
+      "programs": ["Computer Science", "Software Engineering"],
+      "deadline": "2024-12-15",
+      "match_reason": "顶级学术资源，适合追求学术深度的学生"
+    },
+    {
+      "name": "Imperial College London",
+      "中文名": "帝国理工学院",
+      "ranking": 6,
+      "tier": "匹配",
+      "gpa_requirement": 3.5,
+      "toefl_requirement": 100,
+      "ielts_requirement": 7.0,
+      "programs": ["AI", "Computing", "Data Science", "Business Analytics"],
+      "deadline": "2025-01-15",
+      "match_reason": "工科强校，AI方向投入大，地处伦敦就业便利"
+    },
+    {
+      "name": "University College London",
+      "中文名": "伦敦大学学院",
+      "ranking": 9,
+      "tier": "匹配",
+      "gpa_requirement": 3.5,
+      "toefl_requirement": 100,
+      "ielts_requirement": 7.0,
+      "programs": ["Computer Science", "Data Science", "Machine Learning"],
+      "deadline": "2025-03-31",
+      "match_reason": "G5院校，专业设置灵活，地处伦敦核心"
+    },
+    {
+      "name": "University of Edinburgh",
+      "中文名": "爱丁堡大学",
+      "ranking": 15,
+      "tier": "保底",
+      "gpa_requirement": 3.2,
+      "toefl_requirement": 92,
+      "ielts_requirement": 6.5,
+      "programs": ["AI", "Data Science", "Computer Science"],
+      "deadline": "2025-03-01",
+      "match_reason": "AI历史悠久，学费相对友好，生活成本适中"
+    },
+    {
+      "name": "King's College London",
+      "中文名": "伦敦国王学院",
+      "ranking": 33,
+      "tier": "保底",
+      "gpa_requirement": 3.3,
+      "toefl_requirement": 93,
+      "ielts_requirement": 6.5,
+      "programs": ["Computer Science", "Data Science", "AI"],
+      "deadline": "2025-04-30",
+      "match_reason": "地处伦敦，综合性强，录取相对友好"
+    }
+  ],
+  "加拿大": [
+    {
+      "name": "University of Toronto",
+      "中文名": "多伦多大学",
+      "ranking": 21,
+      "tier": "匹配",
+      "gpa_requirement": 3.5,
+      "toefl_requirement": 93,
+      "ielts_requirement": 7.0,
+      "programs": ["Computer Science", "Data Science", "AI"],
+      "deadline": "2025-01-15",
+      "match_reason": "加拿大顶尖，AI研究中心，性价比高"
+    },
+    {
+      "name": "University of British Columbia",
+      "中文名": "英属哥伦比亚大学",
+      "ranking": 34,
+      "tier": "匹配",
+      "gpa_requirement": 3.3,
+      "toefl_requirement": 90,
+      "ielts_requirement": 6.5,
+      "programs": ["Computer Science", "Data Science"],
+      "deadline": "2025-01-31",
+      "match_reason": "风景优美，科研实力强，温哥华就业机会多"
+    },
+    {
+      "name": "McGill University",
+      "中文名": "麦吉尔大学",
+      "ranking": 31,
+      "tier": "保底",
+      "gpa_requirement": 3.2,
+      "toefl_requirement": 86,
+      "ielts_requirement": 6.5,
+      "programs": ["Computer Science", "Software Engineering"],
+      "deadline": "2025-02-01",
+      "match_reason": "加拿大哈佛，学费低廉，蒙特利尔科技氛围佳"
+    }
+  ],
+  "香港": [
+    {
+      "name": "The University of Hong Kong",
+      "中文名": "香港大学",
+      "ranking": 26,
+      "tier": "匹配",
+      "gpa_requirement": 3.4,
+      "toefl_requirement": 80,
+      "ielts_requirement": 6.0,
+      "programs": ["Computer Science", "Data Science", "FinTech"],
+      "deadline": "2025-02-28",
+      "match_reason": "香港第一，国际化程度高，金融科技资源丰富"
+    },
+    {
+      "name": "The Hong Kong University of Science and Technology",
+      "中文名": "香港科技大学",
+      "ranking": 60,
+      "tier": "匹配",
+      "gpa_requirement": 3.3,
+      "toefl_requirement": 80,
+      "ielts_requirement": 6.5,
+      "programs": ["Big Data Technology", "AI", "IT"],
+      "deadline": "2025-03-01",
+      "match_reason": "工科强校，就业率高，毕业可留港工作"
+    },
+    {
+      "name": "The Chinese University of Hong Kong",
+      "中文名": "香港中文大学",
+      "ranking": 47,
+      "tier": "保底",
+      "gpa_requirement": 3.0,
+      "toefl_requirement": 79,
+      "ielts_requirement": 6.5,
+      "programs": ["Computer Science", "Information Engineering"],
+      "deadline": "2025-03-31",
+      "match_reason": "综合性强，环境优美，学费适中"
+    }
+  ],
+  "新加坡": [
+    {
+      "name": "National University of Singapore",
+      "中文名": "新加坡国立大学",
+      "ranking": 11,
+      "tier": "冲刺",
+      "gpa_requirement": 3.6,
+      "toefl_requirement": 92,
+      "ielts_requirement": 6.5,
+      "programs": ["Computer Science", "Data Science", "AI"],
+      "deadline": "2025-01-31",
+      "match_reason": "亚洲第一，科研实力强，就业前景好"
+    },
+    {
+      "name": "Nanyang Technological University",
+      "中文名": "南洋理工大学",
+      "ranking": 26,
+      "tier": "匹配",
+      "gpa_requirement": 3.4,
+      "toefl_requirement": 92,
+      "ielts_requirement": 6.5,
+      "programs": ["Computer Science", "AI", "Data Science"],
+      "deadline": "2025-02-28",
+      "match_reason": "工科强校，校园现代化，奖学金丰富"
+    }
+  ]
+}
