@@ -1,5 +1,21 @@
 # 留学规划AI智能体系统 | Study Abroad Planning AI Agent System
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Code Size](https://img.shields.io/github/languages/code-size/helloforrestwu-ctrl/study-abroad-ai-agent)
+![Stars](https://img.shields.io/github/stars/helloforrestwu-ctrl/study-abroad-ai-agent?style=social)
+![Forks](https://img.shields.io/github/forks/helloforrestwu-ctrl/study-abroad-ai-agent?style=social)
+
+**基于多Agent协作架构的智能留学咨询系统**
+
+[快速开始](#安装与使用) • [功能特性](#功能特性) • [系统架构](#系统架构) • [在线演示](#使用流程)
+
+</div>
+
+---
+
 ## 项目简介
 
 这是一个基于多Agent协作架构的留学规划智能咨询系统，由资深留学规划专家（Commands）总指挥，配备多个专业助手（Agents）协同工作，为学生提供个性化的留学申请方案。
